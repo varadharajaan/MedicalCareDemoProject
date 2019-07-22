@@ -1,0 +1,8 @@
+---
+applications:
+  - name: medicalStore-backend
+    random-route: true
+    memory: 1024M
+    path: target/demo-0.0.1-SNAPSHOT.war
+    
+     

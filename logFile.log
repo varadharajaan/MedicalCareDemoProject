@@ -1,0 +1,1230 @@
+2019-07-22 08:10:31,039 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=20h4m9s302ms549µs900ns).
+2019-07-22 08:10:50,530 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,559 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,559 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,562 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,583 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,587 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,587 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,590 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,591 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,594 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,595 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,598 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,598 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,600 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,601 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,604 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,605 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,607 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,607 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,610 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,610 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,613 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,613 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,616 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,617 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,619 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,620 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,622 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,622 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,625 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,625 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,628 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,628 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,630 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,630 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,633 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,633 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,635 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,636 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,638 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,638 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,640 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,640 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,642 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,643 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,645 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,645 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,648 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,648 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,650 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,650 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,653 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,653 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,655 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,655 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,658 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,658 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,661 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,661 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,664 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,664 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,667 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,667 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,670 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,670 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,673 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,673 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,675 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,675 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,678 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,678 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,681 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,682 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,685 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,685 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,688 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,689 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,691 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,692 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,694 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,694 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,697 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,697 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,699 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,699 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,701 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,701 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,703 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,704 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,706 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,706 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,708 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,709 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,711 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,711 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,713 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,713 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,715 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,715 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,717 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,718 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,719 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,720 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,722 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,722 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,724 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,724 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,726 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,726 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,728 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,728 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,730 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,730 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,732 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,732 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,734 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,734 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,736 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,737 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,738 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,739 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,741 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,741 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,743 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,743 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,746 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,746 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,748 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,749 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,751 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,751 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,754 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,754 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,756 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,756 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,759 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,759 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,761 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,762 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,764 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,765 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,768 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,768 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,771 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,771 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,774 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,775 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,777 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,777 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,779 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,780 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,782 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,782 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,784 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,785 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,787 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,787 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,789 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,789 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,791 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,792 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,794 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,794 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,796 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,796 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,798 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,798 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,800 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,800 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,802 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,802 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,804 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,804 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,807 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,807 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,810 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,810 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,813 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,813 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,815 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,816 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,818 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,818 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,820 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,820 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,822 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,822 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,825 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,825 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,827 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,827 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,830 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,830 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,833 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,833 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,835 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,835 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,837 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,837 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,840 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,840 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,842 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,842 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,845 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,845 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,847 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,848 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,850 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,850 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,852 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,852 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,855 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,855 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,857 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,857 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,859 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,860 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,862 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,862 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,864 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,864 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,866 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,866 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,868 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,869 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,871 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,871 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,873 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,873 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,876 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,876 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,878 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,878 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,880 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,880 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,882 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,882 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,884 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,884 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,886 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,887 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,889 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,889 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,891 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,891 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,893 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,893 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,895 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,895 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,897 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,897 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,899 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,899 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,901 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,901 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,903 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,903 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,905 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,905 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,907 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,908 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,910 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,910 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,912 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,912 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,914 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,914 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,917 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,917 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,918 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,919 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,920 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,921 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,923 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,923 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,924 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,925 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,927 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,927 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,929 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,929 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,931 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,931 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,933 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,933 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,936 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,936 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,938 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,938 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,940 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,940 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,942 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,942 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,944 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,945 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,947 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,947 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,949 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,949 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,951 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,951 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,953 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,953 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,956 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,956 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,958 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,958 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,960 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,961 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,963 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,963 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,965 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,965 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,967 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,967 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,969 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,969 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,971 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,971 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,973 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,973 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,975 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,975 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,977 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,977 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,978 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,979 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,980 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,980 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,982 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,982 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,984 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,984 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,986 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,986 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,987 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,987 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,989 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,989 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,991 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,991 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,992 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,993 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,994 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,995 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,996 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,996 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:50,998 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:50,998 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,000 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,000 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,002 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,002 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,003 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,003 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,005 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,005 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,007 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,007 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,008 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,008 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,010 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,010 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,012 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,012 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,014 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,014 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,016 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,016 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,018 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,018 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,020 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,020 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,022 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,022 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,023 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,024 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,026 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,026 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,028 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,029 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,031 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,031 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,033 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,033 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,035 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,036 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,038 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,038 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,040 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,040 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,042 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,042 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,044 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,044 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,046 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,047 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,049 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,049 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,051 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,051 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,053 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,053 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,055 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,055 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,057 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,058 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,060 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,060 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,063 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,063 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,065 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,066 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,068 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,068 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,069 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,070 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,072 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,072 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,074 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,074 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,076 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,076 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,078 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,078 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,079 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,079 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,081 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,081 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,084 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,084 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,086 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,086 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,088 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,088 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,090 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,090 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,092 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,092 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,094 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,094 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,096 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,096 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,098 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,098 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,099 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,099 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,101 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,101 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,103 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,104 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,106 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,106 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,108 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,108 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,110 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,110 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,112 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,112 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,114 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,114 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,116 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,116 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,118 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,118 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,120 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,120 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,123 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,123 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,125 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,125 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,127 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,127 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,129 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,129 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,132 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,132 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,134 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,134 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,136 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,136 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,138 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,138 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,140 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,140 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,142 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,142 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,144 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,144 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,146 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,146 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,148 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,148 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,149 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,149 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,151 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,151 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,153 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,153 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,155 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,155 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,157 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,157 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,159 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,159 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,160 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,161 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,162 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,162 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,164 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,164 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,166 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,166 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,167 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,167 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,169 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,169 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,171 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,171 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,173 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,173 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,174 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,174 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,176 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,176 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,178 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,178 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,179 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,180 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,181 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,181 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,183 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,183 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,185 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,185 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,186 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,186 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,188 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,188 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,190 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,190 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,191 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,192 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,193 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,193 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,195 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,195 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,196 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,197 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,198 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,198 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,200 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,200 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,202 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,202 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,203 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,204 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,205 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,205 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,207 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,207 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,209 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,209 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,211 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,211 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,213 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,213 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,214 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,215 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,216 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,216 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,218 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,218 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,220 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,220 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,221 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,222 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,223 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,223 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,225 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,225 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,226 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,226 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,229 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,229 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,231 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,231 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,233 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,233 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,235 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,235 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,236 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,237 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,238 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,238 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,240 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,240 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,242 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,242 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,244 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,244 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,245 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,245 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,248 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,248 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,250 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,250 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,252 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,252 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,254 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,254 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,256 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,256 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,257 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,257 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,259 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,259 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,261 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,261 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,262 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,262 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,264 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,264 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,266 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,266 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,268 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,268 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,269 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,269 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,271 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,271 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,273 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,273 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,274 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,274 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,276 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,276 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,278 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,278 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,279 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,279 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,281 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,281 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,283 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,283 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,284 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,284 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,286 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,286 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,287 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,288 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,289 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,289 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,291 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,291 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,292 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,292 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,294 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,294 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,296 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,296 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,298 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,298 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,300 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,300 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,301 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,301 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,303 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,303 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,305 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,305 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,307 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,307 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,309 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,309 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,311 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,311 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,313 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,313 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,315 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,315 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,317 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,317 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,319 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,320 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,322 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,322 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,324 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,324 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,327 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,327 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,329 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,329 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,331 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,331 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,333 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,333 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,334 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,335 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,336 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,336 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,338 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,338 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,340 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,340 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,341 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,341 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,343 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,343 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,345 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,345 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,346 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,346 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,351 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,352 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,354 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,354 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,356 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,356 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,358 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,358 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,361 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,361 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,363 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,363 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,365 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,365 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,367 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,367 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,369 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,369 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,371 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,371 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,373 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,373 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,375 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,375 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,377 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,377 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,379 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,379 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,381 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,381 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,382 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,382 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,384 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,384 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,386 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,386 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,387 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,387 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,389 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,389 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,391 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,391 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,392 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,392 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,394 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,394 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,395 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,395 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,396 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,396 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,397 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,397 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,399 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,399 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,400 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,400 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,401 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,401 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,402 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,402 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,404 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,404 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,405 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,405 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,406 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,406 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,407 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,407 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,409 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,409 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,410 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,410 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,411 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,411 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,413 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,413 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,414 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,414 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,415 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,415 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,416 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:10:51,417 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:10:51,418 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:13:11,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:13:11,235 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:16:11,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:16:11,230 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:19:11,227 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:19:11,229 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:22:11,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:22:11,230 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:25:11,227 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:25:11,229 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:28:11,227 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:28:11,229 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 08:31:02,151 ERROR org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/].[dispatcherServlet] [http-nio-8080-exec-4] Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception
+java.lang.IllegalArgumentException: Key bytes can only be specified for HMAC signatures. Please specify a PublicKey or PrivateKey instance.
+	at io.jsonwebtoken.lang.Assert.isTrue(Assert.java:38)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:324)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parse(DefaultJwtParser.java:481)
+	at io.jsonwebtoken.impl.DefaultJwtParser.parseClaimsJws(DefaultJwtParser.java:541)
+	at com.hackthon.dbs.medicalProvider.demo.filterConfig.JWTAuthorizationFilter.getAuthentication(JWTAuthorizationFilter.java:38)
+	at com.hackthon.dbs.medicalProvider.demo.filterConfig.JWTAuthorizationFilter.doFilterInternal(JWTAuthorizationFilter.java:28)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter.doFilter(AbstractAuthenticationProcessingFilter.java:200)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.authentication.logout.LogoutFilter.doFilter(LogoutFilter.java:116)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.header.HeaderWriterFilter.doFilterInternal(HeaderWriterFilter.java:74)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.SecurityContextPersistenceFilter.doFilter(SecurityContextPersistenceFilter.java:105)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter.doFilterInternal(WebAsyncManagerIntegrationFilter.java:56)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.springframework.security.web.FilterChainProxy$VirtualFilterChain.doFilter(FilterChainProxy.java:334)
+	at org.springframework.security.web.FilterChainProxy.doFilterInternal(FilterChainProxy.java:215)
+	at org.springframework.security.web.FilterChainProxy.doFilter(FilterChainProxy.java:178)
+	at org.springframework.web.filter.DelegatingFilterProxy.invokeDelegate(DelegatingFilterProxy.java:357)
+	at org.springframework.web.filter.DelegatingFilterProxy.doFilter(DelegatingFilterProxy.java:270)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:92)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:200)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:109)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:202)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:490)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:139)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:343)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:408)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:853)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1587)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+2019-07-22 08:31:11,228 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 08:31:11,231 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:44:55,836 WARN com.zaxxer.hikari.pool.HikariPool [HikariPool-1 housekeeper] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h13m34s385ms837µs200ns).
+2019-07-22 09:47:05,965 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,984 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,985 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,987 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,987 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,989 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,989 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,990 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,990 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,992 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,992 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,994 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,994 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,995 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,996 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,997 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,997 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:05,998 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:05,999 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,000 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,000 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,002 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,002 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,004 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,004 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,005 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,005 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,007 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,007 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,009 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,009 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,010 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,010 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,012 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,012 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,014 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,014 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,015 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,015 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,017 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,017 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,019 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,019 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,021 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,021 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,022 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,022 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,024 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:47:06,024 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:47:06,025 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:49:01,581 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:49:01,583 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:52:01,213 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:52:01,215 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:55:00,572 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:55:00,574 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 09:58:00,510 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 09:58:00,512 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:01:00,507 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:01:00,509 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:04:00,506 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:04:00,508 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:07:00,505 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:07:00,507 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:10:00,504 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:10:00,506 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:13:00,506 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:13:00,508 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:16:00,498 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:16:00,514 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:19:00,485 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:19:00,487 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:22:00,485 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:22:00,487 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:25:00,483 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:25:00,486 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:28:00,482 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:28:00,485 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:31:00,483 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:31:00,485 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:34:00,479 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:34:00,481 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:37:00,474 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:37:00,476 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:40:00,475 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:40:00,478 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:43:00,475 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:43:00,477 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:46:00,475 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:46:00,484 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:49:00,473 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:49:00,476 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:52:00,466 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:52:00,468 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:55:00,460 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:55:00,463 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 10:58:00,458 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 10:58:00,461 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:01:00,455 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:01:00,457 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:04:00,454 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:04:00,456 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:07:00,454 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:07:00,456 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:10:00,452 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:10:00,454 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:13:00,450 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:13:00,452 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:16:00,449 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:16:00,466 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:19:00,448 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:19:00,451 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:22:00,449 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:22:00,452 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:25:00,447 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:25:00,450 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:28:00,444 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:28:00,446 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:31:00,443 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:31:00,445 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:34:00,442 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:34:00,445 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:37:00,440 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:37:00,443 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:40:00,440 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:40:00,443 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:43:00,428 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:43:00,443 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:46:00,420 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:46:00,429 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:49:00,415 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:49:00,418 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:52:00,412 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:52:00,414 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:55:00,406 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:55:00,408 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 11:58:00,399 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 11:58:00,401 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:01:00,395 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:01:00,397 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:04:00,392 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:04:00,394 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:07:00,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:07:00,392 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:10:00,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:10:00,392 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:13:00,389 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:13:00,396 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:16:00,387 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:16:00,396 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:19:00,388 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:19:00,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:22:00,388 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:22:00,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:25:00,387 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:25:00,390 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:28:00,385 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:28:00,387 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:31:00,370 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:31:00,372 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:34:00,356 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:34:00,358 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:37:00,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:37:00,352 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:40:00,345 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:40:00,347 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:43:00,347 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:43:00,356 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:46:00,349 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:46:00,352 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:49:00,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:49:00,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:52:00,349 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:52:00,352 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:55:00,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:55:00,352 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 12:58:00,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 12:58:00,351 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:01:00,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:01:00,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:04:00,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:04:00,350 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:07:00,349 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:07:00,351 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:10:00,347 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:10:00,349 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:13:00,348 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:13:00,356 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:16:00,347 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:16:00,349 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:19:00,345 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:19:00,347 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:22:00,342 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:22:00,344 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:25:00,337 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:25:00,339 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:28:00,335 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:28:00,337 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:31:00,332 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:31:00,334 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:34:00,330 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:34:00,332 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:37:00,328 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:37:00,330 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:40:00,327 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:40:00,329 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:43:00,326 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:43:00,341 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:46:00,324 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:46:00,326 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:49:00,323 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:49:00,325 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:52:00,323 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:52:00,325 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:55:00,323 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:55:00,325 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 13:58:00,322 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 13:58:00,324 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:01:00,321 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:01:00,323 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:04:00,322 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:04:00,324 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:07:00,320 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:07:00,322 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:10:00,319 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:10:00,321 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:13:00,311 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:13:00,326 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:16:00,301 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:16:00,303 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:19:00,291 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:19:00,294 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:22:00,284 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:22:00,286 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:25:00,279 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:25:00,281 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:28:00,275 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:28:00,277 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:31:00,271 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:31:00,273 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:34:00,267 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:34:00,269 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:37:00,264 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:37:00,266 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:38:05,702 INFO org.hibernate.tool.schema.internal.SchemaDropperImpl$DelayedDropActionImpl [RMI TCP Connection(451)-127.0.0.1] HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+2019-07-22 14:38:05,904 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(451)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+2019-07-22 14:38:05,908 INFO com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(451)-127.0.0.1] HikariPool-1 - Shutdown completed.
+2019-07-22 14:38:18,566 INFO com.hackthon.dbs.medicalProvider.demo.DemoApplication [main] Starting DemoApplication on md1up8cc with PID 61468 (C:\hackthon_dbs\hackthon\target\classes started by z0041tdk in C:\hackthon_dbs\hackthon)
+2019-07-22 14:38:18,571 INFO com.hackthon.dbs.medicalProvider.demo.DemoApplication [main] No active profile set, falling back to default profiles: default
+2019-07-22 14:38:21,355 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-07-22 14:38:21,356 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-22 14:38:22,150 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-07-22 14:38:22,160 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-07-22 14:38:22,355 ERROR com.zaxxer.hikari.HikariConfig [main] Failed to load driver class org.postgresql.Driver from HikariConfig class classloader sun.misc.Launcher$AppClassLoader@18b4aac2
+2019-07-22 14:38:22,368 INFO org.apache.catalina.core.StandardService [main] Stopping service [Tomcat]
+2019-07-22 14:38:22,401 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [main] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Failed to bind properties under '' to com.zaxxer.hikari.HikariDataSource:
+
+    Property: driverclassname
+    Value: org.postgresql.Driver
+    Origin: "driverClassName" from property source "source"
+    Reason: Failed to load driver class org.postgresql.Driver in either of HikariConfig class loader or Thread context classloader
+
+Action:
+
+Update your application's configuration
+
+2019-07-22 14:41:19,090 INFO com.hackthon.dbs.medicalProvider.demo.DemoApplication [main] Starting DemoApplication on md1up8cc with PID 63420 (C:\hackthon_dbs\hackthon\target\classes started by z0041tdk in C:\hackthon_dbs\hackthon)
+2019-07-22 14:41:19,095 INFO com.hackthon.dbs.medicalProvider.demo.DemoApplication [main] No active profile set, falling back to default profiles: default
+2019-07-22 14:41:21,842 INFO org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+2019-07-22 14:41:21,842 INFO org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-07-22 14:41:22,591 INFO org.apache.jasper.servlet.TldScanner [main] At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-07-22 14:41:22,601 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+2019-07-22 14:41:22,914 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2019-07-22 14:41:23,240 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2019-07-22 14:41:23,327 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-07-22 14:41:23,482 INFO org.hibernate.Version [main] HHH000412: Hibernate Core {5.3.10.Final}
+2019-07-22 14:41:23,485 INFO org.hibernate.cfg.Environment [main] HHH000206: hibernate.properties not found
+2019-07-22 14:41:23,776 INFO org.hibernate.annotations.common.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-07-22 14:41:24,131 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL95Dialect
+2019-07-22 14:41:24,170 INFO org.hibernate.engine.jdbc.env.internal.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2019-07-22 14:41:24,183 INFO org.hibernate.type.BasicTypeRegistry [main] HHH000270: Type registration [java.util.UUID] overrides previous : org.hibernate.type.UUIDBinaryType@7bb4ed71
+2019-07-22 14:41:25,483 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,483 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "login" does not exist, skipping
+2019-07-22 14:41:25,484 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,484 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "login" does not exist, skipping
+2019-07-22 14:41:25,485 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,485 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "prescription" does not exist, skipping
+2019-07-22 14:41:25,486 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,486 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "prescription" does not exist, skipping
+2019-07-22 14:41:25,486 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,487 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "prescription" does not exist, skipping
+2019-07-22 14:41:25,487 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,487 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "user" does not exist, skipping
+2019-07-22 14:41:25,488 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,488 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] relation "user" does not exist, skipping
+2019-07-22 14:41:25,491 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,491 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] table "application_user" does not exist, skipping
+2019-07-22 14:41:25,492 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,492 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] table "login" does not exist, skipping
+2019-07-22 14:41:25,492 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,492 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] table "prescription" does not exist, skipping
+2019-07-22 14:41:25,493 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,493 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] table "retailer_mapper" does not exist, skipping
+2019-07-22 14:41:25,494 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] SQL Warning Code: 0, SQLState: 00000
+2019-07-22 14:41:25,494 WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper [main] table "user" does not exist, skipping
+2019-07-22 14:41:25,867 INFO org.hibernate.tool.schema.internal.SchemaCreatorImpl [main] HHH000476: Executing import script 'org.hibernate.tool.schema.internal.exec.ScriptSourceInputNonExistentImpl@516b84d1'
+2019-07-22 14:41:27,916 INFO org.hibernate.hql.internal.QueryTranslatorFactoryInitiator [main] HHH000397: Using ASTQueryTranslatorFactory
+2019-07-22 14:41:29,993 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Context refreshed
+2019-07-22 14:41:30,016 INFO springfox.documentation.spring.web.plugins.DocumentationPluginsBootstrapper [main] Found 1 custom documentation plugin(s)
+2019-07-22 14:41:30,029 INFO springfox.documentation.spring.web.scanners.ApiListingReferenceScanner [main] Scanning for api listing references
+2019-07-22 14:41:30,263 INFO com.hackthon.dbs.medicalProvider.demo.DemoApplication [main] Started DemoApplication in 11.788 seconds (JVM running for 14.29)
+2019-07-22 14:41:59,992 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:42:00,073 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:42:18,152 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-2] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-07-22 14:43:09,705 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] Caught an AmazonServiceException from PUT requests, rejected reasons:
+2019-07-22 14:43:09,705 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] Error Message:    The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: A544E02996A6922D; S3 Extended Request ID: lItWWmZqsuKlr4bTHOb/NLNfF7Xelw+x/92AyIyH1iB2kXGwP99BL4S5BtCs2znP3aA5DdCsWB0=)
+2019-07-22 14:43:09,705 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] HTTP Status Code: 403
+2019-07-22 14:43:09,706 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] AWS Error Code:   InvalidAccessKeyId
+2019-07-22 14:43:09,706 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] Error Type:       Client
+2019-07-22 14:43:09,706 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-3] Request ID:       A544E02996A6922D
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] Caught an AmazonServiceException from GET requests, rejected reasons:
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] Error Message:    The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: 90E628D801E5348C; S3 Extended Request ID: 84FjVIpItjqYDb+dSl4CXU4slTzCQqKjh4/AO8H4itaWHYbAY5nzMfRj/wWWdljE6X77KAOKI4I=)
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] HTTP Status Code: 403
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] AWS Error Code:   InvalidAccessKeyId
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] Error Type:       Client
+2019-07-22 14:43:31,359 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-4] Request ID:       90E628D801E5348C
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] Caught an AmazonServiceException from GET requests, rejected reasons:
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] Error Message:    The AWS Access Key Id you provided does not exist in our records. (Service: Amazon S3; Status Code: 403; Error Code: InvalidAccessKeyId; Request ID: 8C19CE39F87C6ABF; S3 Extended Request ID: I7ec3ADK3lEEebYm6QFPgFnHBWDkywNvohgCuMySJNjP76cTT6sfa1I9ucIL0LN8IUZMnyAzmng=)
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] HTTP Status Code: 403
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] AWS Error Code:   InvalidAccessKeyId
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] Error Type:       Client
+2019-07-22 14:44:26,445 INFO com.hackthon.dbs.medicalProvider.demo.service.S3ServicesImpl [http-nio-8080-exec-5] Request ID:       8C19CE39F87C6ABF
+2019-07-22 14:44:59,990 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:44:59,996 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:47:59,989 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:47:59,995 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:50:59,988 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:50:59,994 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
+2019-07-22 14:53:59,987 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] I am scheduling the application
+2019-07-22 14:53:59,994 INFO com.hackthon.dbs.medicalProvider.demo.scheduler.IdentifyAndRaiseAlerts [scheduling-1] scheduleTaskWithFixedDelay result isNo New records
